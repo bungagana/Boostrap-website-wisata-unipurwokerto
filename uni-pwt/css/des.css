@@ -1,0 +1,95 @@
+.nav-item {
+    margin-left: 20px;
+  }
+  .butn {
+    margin-right: 20px;
+    margin-left: 20px;
+  }
+  
+  .foto {
+    margin-left: auto;
+    margin-left: auto;
+  }
+  
+  .btn1 {
+    border-radius: 20px;
+    background-color: transparent;
+    color: grey;
+    border: none;
+  }
+  .container {
+    margin-top: 20px;
+  }
+  .btn2 {
+    border-radius: 20px;
+  }
+  
+  .active {
+    color: #0d6efd !important;
+  }
+  
+  .img {
+    width: 120%;
+    border-radius: 20px;
+  }
+  .img1 {
+    margin-left: 20px;
+    width: 60%;
+    border-radius: 20px;
+  }
+  .imgex {
+    margin-top: 20px !important;
+  }
+  .btn3 {
+    color: black;
+    background-color: transparent;
+    border-color: black;
+  }
+  .btnDiv {
+    display: block;
+  }
+  .p {
+    margin-bottom: 0px !important;
+  }
+  .spanRa {
+    font-size: large;
+  }
+  .heart {
+    background-color: whitesmoke;
+  }
+  .heart1 {
+    border-left: 1px solid black;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+  }
+  .heart2 {
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+  }
+  .text {
+    text-align: justify;
+  }
+  .textarea {
+    border-radius: 20px;
+    width: 50%;
+    margin: auto;
+    margin-top: 50px;
+  }
+  .imgres{
+    border-radius: 100px;
+    width: 10%;
+    height: 10%;
+  }
+  .textarea1 {
+    border-radius: 20px;
+    width: 80%;
+    margin: auto;
+    margin-top: 50px;
+  }
+  .texareabg {
+    background-color: whitesmoke;
+  }
+  .bg-light {
+    background-color: transparent!important;
+  }
+  
